@@ -1,0 +1,15 @@
+Entidades:
+
+- Ong
+- Caso (Incident)
+
+Funcionalidades:
+
+- Login de Ong
+- Cadastro de Ong
+- Logout de Ong
+- Cadastrar novos casos
+- Deletar casos
+- Listar Casos especificos de uma Ong
+- Listar todos os casos
+- Entrar em contato com a Ong 
